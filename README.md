@@ -16,7 +16,7 @@ Viewers can play and pause the film once they scroll down to the Watch section. 
 They can also click on the white dots of the BTS section to see the philosophy behind the visuals.
 In relation to the 30-min time limitation, I also added a countdown at the end. 
 - Reflection/Evaluation👄:
-- In the Wireframe design, I included multiple pages such as Apply and Schedule. However, during the execution, I realize that pages like that could take away viewers' attention to the debut film.
+- In the Wireframe design, I included multiple pages such as Apply and Schedule. However, during the execution, I realized that pages like that could take away viewers' attention from the debut film. Thus, I decided to trim the multiple sections and made it more precise. For sure, the website should have more functions and be more user-friendly. For example, the function button in the BTS section is not as responsive as expected. The cursor has to stay on the dot long enough to be able to click it. Also, the timer can be designed to stay on the scroller each time when user scroll by modifying the code in the Javascript, but I don't know how to do that. Overall, I will try to learn more about coding for next assignment.
 
 <!---
 LindaD1234/LindaD1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
